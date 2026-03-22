@@ -1,2 +1,3 @@
 1. Nauczyc sie podstaw Gita
 2. Skonfigurowac repozytorium
+3. Zrobic pierwszy push z nowym plikiem
