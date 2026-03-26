@@ -8,10 +8,12 @@
 ### Tydzień 2: Praca z historią
 * [ ] Sprawdzanie zmian ('git diff')
 * [ ] Cofanie błędów ('git chekout' lub 'git restore')
-* [ ] Przeglądanie logów (' git log --oneline')
+* [ ] Przeglądanie logów ('
+git log --oneline')
 
 ### Tydzień 3: Wspólpraca i Gałęzie (Branches)
 * [ ] Tworzenie galęzi ('git branch')
 * [ ] Łączenie zmian('git merge')
 * [ ] Pobieranie zmian z serwera ('git pull')
+* [ ] Ćwiczenie z gałęziami (Merge) - W TOKU!
  
