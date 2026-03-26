@@ -1,2 +1,3 @@
 To jest przykładowy plik do ćwiczeń Git.
 Dodajemy go, commitujemy i sprawdzamy historię.
+Dodano zmianę na gałęzi eksperyment.
